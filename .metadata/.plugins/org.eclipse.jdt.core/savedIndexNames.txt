@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+/Users/benja/Desktop/lab1_workspace 2/.metadata/.plugins/org.eclipse.jdt.core
+1080065135.index
+4155219971.index
+2615623159.index
+2917382390.index
+1865797976.index
